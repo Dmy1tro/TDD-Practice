@@ -1,7 +1,6 @@
 # String Calculator – TDD Practice in C#
 
 This repository demonstrates the **Test-Driven Development (TDD)** workflow.  
-It is intended as a **reference for unit testing and TDD skills** (e.g., for PPR / performance review).
 
 ---
 
